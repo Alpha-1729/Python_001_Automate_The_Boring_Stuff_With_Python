@@ -1,0 +1,11 @@
+pyperclip
+send2trash
+requests
+bs4
+selenium
+openpyxl
+PyPDF2
+python-docx
+imapclient
+pyzmail36
+pyautogui
