@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Web scraping part 1
+# Web scraping
 
 """
 >>>> Shortcut for view page source.

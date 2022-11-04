@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Regular expression part2
+# Regular expression part 2
 
 """
 >>>> If the regular expression can't find any pattern, it will return None.

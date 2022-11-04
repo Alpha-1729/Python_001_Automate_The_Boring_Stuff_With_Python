@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Regular expression
+# Regular expression part 1
 
 """
 >>>> \d represent a number in regular expression.

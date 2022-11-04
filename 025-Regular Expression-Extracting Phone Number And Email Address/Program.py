@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Regular expression- extracting phone number and email address
+# Regular expression-extracting phone number and email address
 
 """
 >>>> In this we are going to grab phone number and email address from a file containing a huge list of phone numbers and email address.

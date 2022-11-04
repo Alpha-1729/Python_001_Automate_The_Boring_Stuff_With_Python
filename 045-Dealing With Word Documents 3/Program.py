@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Dealing with word dcuments 3
+# Dealing with word documents 3
 
 """
 >>>> Here we are creating a python program to get all the text in docx file.

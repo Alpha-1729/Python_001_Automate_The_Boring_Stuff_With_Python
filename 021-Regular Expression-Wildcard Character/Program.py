@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Regular expression - wildcard character
+# Regular expression-wildcard character
 
 """
 >>>> "." -> anything except newline character

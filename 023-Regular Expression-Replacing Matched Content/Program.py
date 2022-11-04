@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Regular expression - replacing matched content
+# Regular expression-replacing matched content
 
 """
 >>>>

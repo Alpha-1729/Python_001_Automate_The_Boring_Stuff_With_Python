@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Gui automation -control the keyboard
+# Gui automation-control the keyboard
 
 """
 >>>> If you want to run two statement in the shell, separate the two commands by "semicolon(;)".

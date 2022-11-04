@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Regular expression findall
+# Regular expression-findall
 
 """
 >>>>

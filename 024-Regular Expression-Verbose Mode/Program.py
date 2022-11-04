@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Verbose mode
+# Regular expression-verbose mode
 
 """
 >>>> Verbose mode allow use to add pattern in multiline comment.

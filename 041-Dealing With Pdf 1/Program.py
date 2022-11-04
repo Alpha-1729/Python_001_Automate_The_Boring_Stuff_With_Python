@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Dealing with pdf
+# Dealing with pdf 1
 
 """
 >>>> PyPDF2 doesn't work with some pdf files.
