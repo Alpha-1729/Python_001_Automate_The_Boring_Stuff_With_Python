@@ -9,3 +9,4 @@ python-docx
 imapclient
 pyzmail36
 pyautogui
+pynput
